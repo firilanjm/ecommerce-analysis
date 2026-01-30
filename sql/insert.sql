@@ -1,0 +1,20 @@
+-- Load customers
+LOAD DATA LOCAL INFILE 'customers_clean.csv'
+INTO TABLE customers
+FIELDS TERMINATED BY ','
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+
+-- Load products
+LOAD DATA LOCAL INFILE 'products_clean.csv'
+INTO TABLE products
+FIELDS TERMINATED BY ','
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+
+-- Load orders
+LOAD DATA LOCAL INFILE 'orders_clean.csv'
+INTO TABLE orders
+FIELDS TERMINATED BY ','
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
