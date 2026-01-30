@@ -67,12 +67,6 @@ Each record contains:
 
 ---
 
-## Tableau Dashboard
-![Dashboard Screenshot](images/E-Commerce Dashboard.png)
-You can also download and open the full Tableau workbook here: `tableau/ecommerce_dashboard.twbx`
-
----
-
 ## Key Insights
 - Revenue is concentrated among a few customers; mid-tier customers could be targeted for growth.  
 - Slight revenue decline observed from Oct–Dec 2011; further investigation recommended.  
