@@ -58,7 +58,7 @@ Each record contains:
 
 ---
 
-## Analyses
+## Analysis
 1. Top 10 Customers by Revenue  
 2. Top 10 Products by Revenue  
 3. Monthly Revenue Trend  
