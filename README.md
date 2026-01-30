@@ -75,17 +75,5 @@ Each record contains:
 
 ---
 
-## Project Structure
-ecommerce-data-analysis/
-├── README.md
-├── ecommerce_analysis.ipynb
-├── sql/               # schema.sql, insert.sql, analysis.sql
-├── tableau/           # dashboard.twbx
-├── data/              # cleaned dataset 
-└── images/            # dashboard.png
-
-
----
-
 ## Conclusion
 This project showcases a full analytics workflow from **data cleaning → SQL queries → Tableau visualization**, providing actionable insights for e-commerce business decisions.
